@@ -322,10 +322,19 @@ The MNIST notebook shows:
 
 ## References
 
-- Original LLSPIN/LSPIN paper (if applicable - add citation here)
+- Original LLSPIN/LSPIN paper (https://arxiv.org/abs/2106.06468)
 - [Optuna Documentation](https://optuna.readthedocs.io/)
 - [PyTorch Documentation](https://pytorch.org/docs/)
-
+  
+**BibTeX:**
+```bibtex
+@article{ustalov2021crowdkit,
+  title={Learning from Crowds with Crowd-Kit},
+  author={Ustalov, Dmitry and Pavlichenko, Nikita and Tseitlin, Boris},
+  journal={arXiv preprint arXiv:2106.06468},
+  year={2021},
+  url={[https://arxiv.org/abs/2106.06468](https://arxiv.org/abs/2106.06468)}
+}
 ---
 
 ## Disclaimer
