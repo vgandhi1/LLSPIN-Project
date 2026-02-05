@@ -322,7 +322,7 @@ The MNIST notebook shows:
 
 ## References
 
-- Original LLSPIN/LSPIN paper (https://arxiv.org/abs/2106.06468)
+- **Original Paper**: "Locally Sparse Neural Networks for Tabular Biomedical Data" (ICML 2022)
 - [Optuna Documentation](https://optuna.readthedocs.io/)
 - [PyTorch Documentation](https://pytorch.org/docs/)
   
@@ -335,6 +335,7 @@ The MNIST notebook shows:
   year={2021},
   url={[https://arxiv.org/abs/2106.06468](https://arxiv.org/abs/2106.06468)}
 }
+```
 ---
 
 ## Disclaimer
